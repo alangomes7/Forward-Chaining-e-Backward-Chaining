@@ -1,8 +1,6 @@
 Trabalho 2 - Inteligência Artificial 2019.1
 Professora: Aline Paes
-Grupo: Marcelo José Medeiros de Almeida Junior
-Eduardo Henrique Q. Peniche
-Alan da Silva Gomes
+Grupo: Alan da Silva Gomes,Eduardo Henrique Q. Peniche, Marcelo José Medeiros de Almeida Junior.
 
 1. 
 Construímos o grafo de conhecimento, extraindo as relações e entidades da base textual, que então foi traduzido para a linguagem Prolog. Em seguida escrevemos as regras em Prolog. Utilizamos o plugin Prolog Development Tools (ProDT) na IDE Eclipse para fazer a parte em Prolog.
