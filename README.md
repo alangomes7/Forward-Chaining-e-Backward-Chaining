@@ -1,6 +1,6 @@
-Trabalho 2 - Inteligência Artificial 2019.1
-Professora: Aline Paes
-Grupo: Alan da Silva Gomes, Eduardo Henrique Q. Peniche, Marcelo José Medeiros de Almeida Junior.
+Trabalho 2 de Inteligência Artificial   Tema: Estratégias de busca - Autocomplete
+Professora: Aline Paes Disciplina/Semestre: Inteligência Artificial/2019.1
+Alunos: Alan Gomes, Eduardo Peniche e Marcelo José
 
 1. Introdução
 Construímos o grafo de conhecimento, extraindo as relações e entidades da base textual, que então foi traduzido para a linguagem Prolog. Em seguida escrevemos as regras em Prolog. Utilizamos o plugin Prolog Development Tools (ProDT) na IDE Eclipse para fazer a parte em Prolog.
