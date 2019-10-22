@@ -1,4 +1,4 @@
-Trabalho 2 de Inteligência Artificial   Tema: Estratégias de busca - Autocomplete
+Trabalho 2 de Inteligência Artificial   Tema: Estratégias de busca - Famílias da mitologia nórdica
 Professora: Aline Paes Disciplina/Semestre: Inteligência Artificial/2019.1
 Alunos: Alan Gomes, Eduardo Peniche e Marcelo José
 
